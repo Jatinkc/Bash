@@ -40,3 +40,9 @@ The examples in this repository will demonstrate different methods of obtaining 
 # Conditional Statements
 
 Conditional statements allow you to make decisions based on certain conditions. In Bash, you can use if statements to perform conditional branching and execute different blocks of code based on the evaluation of conditions.
+
+# User creation
+
+Using Bash scripts to create a user in Linux allows for automating the user creation process. It provides a convenient way to quickly set up new user accounts with specified usernames, full names, and passwords.
+
+The script prompts the administrator to enter the desired username and full name for the new user. It then utilizes the useradd command to create the user account, specifying the username and full name as parameters. The -c option sets the user's comment (full name), and the -m option creates the user's home directory.
