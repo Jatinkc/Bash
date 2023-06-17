@@ -2,6 +2,7 @@
 
 # Automate tasks with bash scripts
 
+To refer Bash in detail check out this blog >>>>>>>>> [Bourne Bash](https://legiondev.hashnode.dev/day-19)
 # Introduction
 Bash (Bourne Again SHell) is a command language interpreter that is widely used in Linux and Unix systems. It provides a powerful scripting environment for automating tasks, managing files, and executing commands.
 
@@ -46,3 +47,6 @@ Conditional statements allow you to make decisions based on certain conditions. 
 Using Bash scripts to create a user in Linux allows for automating the user creation process. It provides a convenient way to quickly set up new user accounts with specified usernames, full names, and passwords.
 
 The script prompts the administrator to enter the desired username and full name for the new user. It then utilizes the useradd command to create the user account, specifying the username and full name as parameters. The -c option sets the user's comment (full name), and the -m option creates the user's home directory.
+
+For more follow me on Hashnode [LegionDev](https://legiondev.hashnode.dev)
+
